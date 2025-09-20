@@ -1,0 +1,2 @@
+public class yttty {
+}
