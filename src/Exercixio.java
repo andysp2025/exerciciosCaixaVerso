@@ -26,7 +26,7 @@ public class Exercixio {
         System.out.println("duas casas %.2f", numero);*/
         DecimalFormat formataNumero = new DecimalFormat("##.##");
         System.out.println(formataNumero.format(numero));
-
+        return;
 
     }
 }
